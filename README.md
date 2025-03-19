@@ -10,7 +10,7 @@ Tecnologias: React, Expo, TS, API Google Maps, Firebase
 
 [![image.png](https://i.postimg.cc/TYpVWnHF/image.png)](https://postimg.cc/GHn8WTRx)
 
-[![image.png](https://i.postimg.cc/kGfFxcxR/image.png)](https://postimg.cc/H88ymbvT)
+[![Captura-de-pantalla-2025-03-19-140242.jpg](https://i.postimg.cc/kG0MhrN0/Captura-de-pantalla-2025-03-19-140242.jpg)](https://postimg.cc/y3Tzkbbj)
 
 [![image.png](https://i.postimg.cc/HsDMjFXc/image.png)](https://postimg.cc/6TcqmjHt)
 
