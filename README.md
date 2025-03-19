@@ -4,12 +4,18 @@ Desarrollo de una aplicación para Shark Store que optimiza la logística de ent
 
 Tecnologias: React, Expo, TS, API Google Maps, Firebase
 
-[![image.png](https://i.postimg.cc/tC5FQk7n/image.png)](https://postimg.cc/kB22WxQ7)
+[![image.png](https://i.postimg.cc/gkJDqCrM/image.png)](https://postimg.cc/yWMc7rm9)
 
-[![image.png](https://i.postimg.cc/KvFtHwcy/image.png)](https://postimg.cc/QV4BB6W6)
+[![image.png](https://i.postimg.cc/Tw0Vn0xM/image.png)](https://postimg.cc/qht6T8gj)
 
-[![image.png](https://i.postimg.cc/mgpMhrYb/image.png)](https://postimg.cc/pm8y6Rc7)
+[![image.png](https://i.postimg.cc/TYpVWnHF/image.png)](https://postimg.cc/GHn8WTRx)
 
-[![image.png](https://i.postimg.cc/0QDJtdLQ/image.png)](https://postimg.cc/gXcJjRcF)
+[![image.png](https://i.postimg.cc/0N8r7syj/image.png)](https://postimg.cc/k2pndL8P)
 
-[![image.png](https://i.postimg.cc/sxJGzffC/image.png)](https://postimg.cc/xNc1y2b6)
+[![image.png](https://i.postimg.cc/0N8r7syj/image.png)](https://postimg.cc/k2pndL8P)
+
+[![image.png](https://i.postimg.cc/HsDMjFXc/image.png)](https://postimg.cc/6TcqmjHt)
+
+[![image.png](https://i.postimg.cc/g0TXp7G0/image.png)](https://postimg.cc/sB5D9wQF)
+
+[![image.png](https://i.postimg.cc/hGfv20VR/image.png)](https://postimg.cc/zLYqBKdx)
